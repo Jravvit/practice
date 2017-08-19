@@ -13,6 +13,8 @@
 5. 글자 크기는 25px
 6. 프랙티스는 작성 완료 후 각자의 github repository에 올리도록 한다.(앞으로 깃헙을 계속 해서 사용할것)
 
+### 참고링크
+[부트스트랩 그리드 시스템](http://bootstrapk.com/css/#grid)
 
 ### 예시
 ![ex_screenshot](./grid.png)
